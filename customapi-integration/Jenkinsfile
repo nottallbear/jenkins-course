@@ -1,5 +1,5 @@
 // example of custom API
-import groovy.json.JsonSlurperClassicddd 
+import groovy.json.JsonSlurperClassic 
 
 @NonCPS
 def jsonParse(def json) {
